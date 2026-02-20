@@ -1,0 +1,12 @@
+# Ignore compiled executables (the most important part for CP!)
+*.exe
+*.o
+*.out
+
+# Ignore VS Code configuration and history
+.vscode/
+.history/
+
+# Ignore input/output files used for local testing
+input.txt
+output.txt
