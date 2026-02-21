@@ -1,18 +1,52 @@
-# Competitive Programming Journey 🚀
+Competitive Programming Repository
 
-This repository contains my solutions to various competitive programming problems from different platforms.
+A curated collection of my competitive programming practice and progress.
 
-## 📂 Folder Structure
-* **/AtCoder**: Solutions for AtCoder Beginner and Regular contests.
-* **/Codeforces**: Solutions for Div. 2, Div. 3, and Educational rounds. (Coming soon)
-* **/Templates**: My reusable C++ snippets and algorithms.
+---
 
-## 🛠️ Setup
-- **Compiler:** MinGW-w64 (UCRT64)
-- **Editor:** VS Code
-- **Build System:** Manual G++ commands / Code Runner
+Profile
 
-## 📈 Goals
-- [ ] Reach 1900+ rating on Codeforces
-- [ ] Solve 400+ problems on AtCoder
-- [ ] Master Dynamic Programming (DP)
+- Codeforces Handle: "murasakii"
+- Current Rating: 800
+- Target Rating: 1900
+- Languages: English, Bengali
+- Focus: Algorithmic problem solving and performance improvement
+
+---
+
+Goals
+
+- Reach Codeforces rating 1900
+- Strengthen problem-solving fundamentals
+- Improve speed and accuracy in contests
+- Build a well-structured archive of solutions
+
+---
+
+Repository Structure
+
+cp/
+├── codeforces/
+├── atcoder/
+├── leetcode/
+└── topic-wise/
+
+Each directory contains organized solutions to solved problems.
+
+---
+
+Progress
+
+I am actively practicing and updating this repository as I continue my journey in competitive programming. The focus is on consistency, clean implementation, and gradual rating improvement.
+
+---
+
+Notes
+
+- Solutions are primarily written for learning and practice.
+- Folder structure may evolve as the repository grows.
+- Continuous improvement is the priority.
+
+---
+
+⭐ If you find this repository useful, consider giving it a star.
